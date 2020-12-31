@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/fore" android:title="active1"/>
+    <item android:id="@+id/bac" android:title="active2"/>
+    <item android:id="@+id/internal" android:title="internal"/>
+    <item android:id="@+id/external" android:title="external"/>
+    <item android:id="@+id/lst" android:title="list_views"/>
+    <item android:id="@+id/gmail" android:title="Gmail"/>
+    <item android:id="@+id/call" android:title="Call"/>
+</menu>
